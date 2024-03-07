@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family:"founders";
+    src: url(../src/assets/fonts/FoundersGrotesk-Semibold\ \(1\).ttf);
+}
+@font-face {
+    font-family:"semibold" ;
+    src: url(../src/assets/fonts/FoundersGrotesk-Semibold.ttf);
+}
+@font-face {
+    font-family:"ico" ;
+    src: url(../src/assets/fonts/icomoon.ttf);
+}
+.heading{
+    font-family:"semibold";
+}
